@@ -1,6 +1,8 @@
 {
   "tasks": [
     { "id": "yh4w8PIPzK6WqYWlEdP2Bn4XrM18DhEh", "name": "lap trinh reactjs", "status": false },
-    { "id": "dneVEXITvKp4bJvory0ZCBSVDuQZAm4J", "name": "Frontend", "status": false }
+    { "id": "dneVEXITvKp4bJvory0ZCBSVDuQZAm4J", "name": "Frontend", "status": false },
+    { "id": "eXZlcK8TDPiKww5L1nwNvHU4ilFZPEDx", "name": "Html", "status": true },
+    { "id": "XTMFOFzoJHZdaKG616V0Xci6sj3AWBhq", "name": "CSS", "status": true }
   ]
 }
